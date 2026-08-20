@@ -1,4 +1,4 @@
-# blinkit-sales-insights
+# Blinkit-Sales-Insights
 
 # 📊 Blinkit Sales Analysis – Excel Dashboard
 
